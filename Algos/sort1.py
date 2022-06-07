@@ -1,5 +1,4 @@
-"""This is a simple sorting algorithm. It is slower than Python sorted function as the size of list increases and
-needs improvement """
+"""This is a simple sorting algorithm. It is slower than Python sorted function as the size of list increases and needs improvement """
 
 
 def is_sorted(lst):
